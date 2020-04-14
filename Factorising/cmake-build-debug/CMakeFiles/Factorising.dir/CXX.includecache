@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rozumnyi/Desktop/Factorising/Factorising.h
+iostream
+-
+vector
+-
+LongArithmetic.h
+/Users/rozumnyi/Desktop/Factorising/LongArithmetic.h
+
+/Users/rozumnyi/Desktop/Factorising/LongArithmetic.h
+iostream
+-
+vector
+-
+
+/Users/rozumnyi/Desktop/Factorising/main.cpp
+iostream
+-
+Factorising.h
+/Users/rozumnyi/Desktop/Factorising/Factorising.h
+LongArithmetic.h
+/Users/rozumnyi/Desktop/Factorising/LongArithmetic.h
+
